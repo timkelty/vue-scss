@@ -4,11 +4,11 @@ module.exports = {
       '@neutrinojs/vue',
       {
         html: {
-          title: 'v8-vue'
+          title: 'Vue + SCSS Example'
         },
         style: {
           test: /\.s?css$/,
-          modulesTest: /\.module\.(css|sass|scss)$/,
+          modulesTest: /\.module\.(s?css)$/,
           loaders: [
             {
               loader: 'sass-loader',
