@@ -1,0 +1,19 @@
+{
+  "name": "v8-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start"
+  },
+  "dependencies": {
+    "vue": "^2.5.17"
+  },
+  "devDependencies": {
+    "@neutrinojs/vue": "^8.3.0",
+    "neutrino": "^8.3.0",
+    "node-sass": "^4.10.0",
+    "sass-loader": "^7.1.0"
+  }
+}
