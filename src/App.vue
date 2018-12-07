@@ -9,7 +9,7 @@
 
 <template>
   <div :class="$style.App">
-    <h1>Welcome to v8-vue</h1>
+    <h1>Welcome to Neutrino v8</h1>
   </div>
 </template>
 
