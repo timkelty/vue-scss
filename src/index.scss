@@ -4,6 +4,8 @@ body {
   background-color: $color;
 }
 
-.white {
-  color: white;
+:global {
+  .white {
+    color: white;
+  }
 }
